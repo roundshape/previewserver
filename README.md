@@ -15,6 +15,7 @@
 
 ### 必須要件
 - .NET 8.0 SDK
+- Visual Studio 2022 (推奨) または Visual Studio Code
 - Windows、Linux、またはmacOS
 
 ### 依存ライブラリ
@@ -317,7 +318,8 @@ dotnet test
 
 ## 作者
 
-- あなたの名前 (@yourusername)
+- ラウンドシェイプ株式会社 (@roundshape)
+- Website: https://www.roundshape.jp
 
 ## 謝辞
 
